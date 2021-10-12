@@ -1,0 +1,11 @@
+# Virtual environment files
+ENV/
+
+# Python cache
+__pycache__/
+
+# Data files
+*.csv
+
+# API keys
+alma_api_keys.py
