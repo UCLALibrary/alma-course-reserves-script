@@ -1,5 +1,7 @@
 # alma-course-reserves-script
-Script to generate list of active Alma course reserves for integration with campus systems.
+A python script to generate a list of active Alma course reserves for integration with campus systems.
+
+Requires Python 3 (tested with Python 3.7.3) and the 3rd-party `requests`module (installed via `requirements.txt`, below).
 
 ## Initial setup
 
