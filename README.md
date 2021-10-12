@@ -21,6 +21,8 @@ Script to generate list of active Alma course reserves for integration with camp
 		$ pip install --upgrade pip
 		$ pip install -r requirements.txt
 
+5. Place the separately-provided `alma_api_keys.py` file in the `alma-course-reserves-script` directory.
+
 ## Running the script
 		
 		$ cd /path/to/alma-course-reserves-script
